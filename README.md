@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning javascript, react, php,..
 - 💞️ I’m looking to collaborate on any projects which will help me to improve my skills.
 - 📫 How to reach me:
-       phone number: +228 99 33 33 54
-       email: tomegahjordan81@gmail.com
-       On X: Jordan_Tomegah
+       phone number: +228 99 33 33 54,
+       email: tomegahjordan81@gmail.com,
+       On X: Jordan_Tomegah.
+  
   OK, That's a wrap, I'm out !
 
 <!---
