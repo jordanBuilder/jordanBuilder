@@ -8,7 +8,7 @@
        On X: Jordan_Tomegah.
   
   OK, That's a wrap, I'm out !
-
+![jordanBuilder's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanBuilder&show_icons=true&theme=gruvbox)
 <!---
 jordanBuilder/jordanBuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
