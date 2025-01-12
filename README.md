@@ -1,15 +1,18 @@
-- 👋 Hello everyone, I am a junior developer in love with code and the world of technology. Github is my new home and I hope to learn a lot by collaborating on projects but above all I would be delighted if you contribute to my projects so that they reach their peak . Welcome to my adventure, guys!!
-- 👀 I’m interested in web design, mobile and web application(frontend & backend), and in a different context Artifical Intelligence.
-- 🌱 I’m currently learning javascript, react, php,..
-- 💞️ I’m looking to collaborate on any projects which will help me to improve my skills.
-- 📫 How to reach me:
-       phone number: +228 99 33 33 54,
-       email: tomegahjordan81@gmail.com,
-       On X: Jordan_Tomegah.
-  OK, That's a wrap, I'm out !
+# 💫 About Me:
+- 👋 Hey there, as a junior developer, I'm in love with code and the world of technology. Github is my new home and I hope to learn a lot by collaborating on projects but above all I would be delighted if you contribute to my projects so that they reach their peak .<br>- 👀 I’m interested in web and mobile applications Development, and in data security.<br>- 🌱 I’m currently focusing and evolving in three main programming langages : Javascript, Python , Java.<br>- 🌱 To create web applications, I mainly use: React.Js and Next.Js for the frontend<br>- 🌱 Node.Js and Express.Js on the backend (mainly for RESTFUL APIs)<br>- 🌱 CSS3 and Tailwindcss for the styling.<br>- 💞️ I’m looking to collaborate on any projects which will help me to improve my skills.<br>- 📫 How to reach me:<br>       phone number: +228 99 33 33 54,<br>       email: tomegahjordan81@gmail.com,<br>       On X: Jordan_Tomegah.<br>       OK, That's a wrap, I'm out !
 
-![jordanBuilder's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanBuilder&show_icons=true&theme=gruvbox)
-<!---
-jordanBuilder/jordanBuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jordan Tomegah  ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jordan_Tomegah) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jordanBuilder&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jordanBuilder&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanBuilder&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jordanBuilder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
